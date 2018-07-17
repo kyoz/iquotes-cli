@@ -1,0 +1,54 @@
+{
+  "name": "iquotes-cli",
+  "version": "0.0.0",
+  "description": "Get inspirational quotes",
+  "author": {
+    "name": "Kyoz",
+    "email": "banminkyoz@gmail.com"
+  },
+  "repository": "banminkyoz/iquotes-cli",
+  "license": "MIT",
+  "engines": {
+    "node": ">=6"
+  },
+  "bin": {
+    "iquotes": "cli.js"
+  },
+  "files": [
+    "cli.js"
+  ],
+  "scripts": {
+    "test": "xo && ava --verbose"
+  },
+  "keywords": [
+    "node",
+    "module",
+    "node_module",
+    "cli",
+    "node cli",
+    "quote",
+    "quotes",
+    "quotes api",
+    "quotes data set",
+    "life quotes",
+    "love quotes",
+    "dev quotes",
+    "inspirational",
+    "inspirational_quotes"
+  ],
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "iquotes": "^1.0.2",
+    "meow": "^5.0.0",
+    "term-size": "^1.2.0",
+    "wrap-ansi": "^3.0.1"
+  },
+  "devDependencies": {
+    "ava": "^0.25.0",
+    "execa": "^0.10.0",
+    "xo": "^0.21.1"
+  },
+  "xo": {
+    "space": 2
+  }
+}
