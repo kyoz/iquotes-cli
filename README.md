@@ -23,6 +23,10 @@ $ iquotes --love
 // "The first duty of love is to listen." - Paul Tillich (Love)
 ```
 
+## Tip
+
+Add `iquotes` to your `bash_profile` (or .zshrc...) to get random quote everytime you open terminal
+
 ## Related
 
 - [iquotes](https://github.com/banminkyoz/iquotes) - API of this module
