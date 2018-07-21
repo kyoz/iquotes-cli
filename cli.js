@@ -10,9 +10,9 @@ const termSize = require('term-size');
 
 const cli = meow(`
   Examples
-    $ iquotes 
+    $ quote
     "Strive not to be a success, but rather to be of value." - Albert Einstein (Life)
-    $ iquotes --life
+    $ quote --life
     "If you really want to do something, you'll find a way. If you don't, you'll find an excuse." - Jim Rohn (Life)
     ...
     

@@ -1,6 +1,6 @@
 {
   "name": "iquotes-cli",
-  "version": "1.1.0",
+  "version": "1.0.0",
   "description": "Get inspirational quotes",
   "author": {
     "name": "Kyoz",
@@ -12,7 +12,7 @@
     "node": ">=6"
   },
   "bin": {
-    "iquotes": "cli.js"
+    "quote": "cli.js"
   },
   "files": [
     "cli.js"
