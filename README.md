@@ -17,15 +17,15 @@ $ npm install iquotes-cli
 ## Usage
 
 ```js
-$ iquotes
+$ quote
 // "If you really want to do something, you'll find a way. If you don't, you'll find an excuse." - Jim Rohn (Life)
-$ iquotes --love
+$ quote --love
 // "The first duty of love is to listen." - Paul Tillich (Love)
 ```
 
 ## Tip
 
-Add `iquotes` to your `bash_profile` (or .zshrc...) to get random quote everytime you open terminal
+Add `quote` to your `bash_profile` (or .zshrc...) to get random quote everytime you open terminal
 
 ## Related
 
