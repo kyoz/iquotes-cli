@@ -9,7 +9,7 @@
   "repository": "banminkyoz/iquotes-cli",
   "license": "MIT",
   "engines": {
-    "node": ">=6"
+    "node": ">=8"
   },
   "bin": {
     "quote": "cli.js"
